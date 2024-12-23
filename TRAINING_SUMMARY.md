@@ -1,7 +1,7 @@
-# Hexaware Spark Phase 1 Training - Batch 10
+# Hexaware Spark Phase 1 Training 
 
 ## Overview
-As a recent graduate stepping into the corporate sector, I was privileged to attend Hexaware Technologies' Spark Phase 1 Training. This 7-day immersive program, conducted by Meena Ramesh from September 4th to September 12th, 2024, ran daily from 9 am to 6 pm and aimed to equip us with essential professional skills. Being part of Batch 10, I participated in a series of interactive sessions and activities tailored to prepare us for a successful career in a dynamic corporate environment.
+As a recent graduate stepping into the corporate sector, I was privileged to attend Hexaware Technologies' Spark Phase 1 Training. This 7-day immersive program, ran daily from 9 am to 6 pm and aimed to equip us with essential professional skills. I participated in a series of interactive sessions and activities tailored to prepare us for a successful career in a dynamic corporate environment.
 
 ---
 
